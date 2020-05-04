@@ -1,0 +1,10 @@
+hidden_layer_sizes=(4, 4)
+activation=logistic
+solver=lbfgs
+learning_rate=adaptive
+learning_rate_init=0.1
+alpha=0.001
+max_iter=10000
+
+
+r2=0.9949272501435726
